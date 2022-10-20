@@ -22,6 +22,9 @@ Related development documents:
 - [Linux Develop](LinuxDevelop.md)
 - [Windows Develop](WindowDevelop.md)
 
+
+
+
 ## 3. Todo List
 
 Nexus AI Server currently only has the windows version. The next step is to support the linxu version and create a docker image to facilitate direct use by more linux users.
